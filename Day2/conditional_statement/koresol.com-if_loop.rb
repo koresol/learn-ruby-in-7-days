@@ -10,6 +10,8 @@
 # without mentioning refrence to our website => www.koresol.com.
 # Author  - Nitin Kore.
 # Copyrights © 2017 All Rights Reserved by KORESOL Software LLP.
+
+
 puts "Enter price"
 price = gets.chomp.to_i
 if price >= 100
