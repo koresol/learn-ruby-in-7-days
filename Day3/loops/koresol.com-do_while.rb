@@ -10,6 +10,8 @@
 # without mentioning refrence to our website => www.koresol.com.
 # Author  - Nitin Kore.
 # Copyrights © 2017 All Rights Reserved by KORESOL Software LLP.
+
+
 loop do   
   puts "Enter Company Name"   
   company = gets.chomp   
